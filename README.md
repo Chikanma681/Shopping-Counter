@@ -1,8 +1,8 @@
  # Shopping Counter App
- - Showcases Shopping Counter functionalities
+ - Simple React JS Counter Web Application
+ - Similar characteristic to shopping cart in a web store
 
  ![Github Photo 1](/images/photo1.PNG)
- - Built with React JS for functionalities
  
  ![Github Photo 2](/images/photo2.PNG)
  
